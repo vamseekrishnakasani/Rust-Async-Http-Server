@@ -147,7 +147,7 @@ cargo --version
 ### **Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rust-http-server.git
+git clone https://github.com/vamseekrishnakasani/Rust-Async-Http-Server.git
 cd rust-http-server
 ```
 
